@@ -1,7 +1,8 @@
 # Examen Parcial 2 - Mutantes
 - Apellido y Nombre: CRUZ , Hiro Julian
 - Legajo: 51517
-- Email: betsabemartin@gmail.com
+- DNI:41699553
+- Email: hirojulian@gmail.com
 
 ## Proyecto Mutantes
 El programa permite detectar secuencias de ADN de Mutantes y identificar si hay precensia de alguno. Se tienen encuenta los siguientes aspectos:
@@ -104,9 +105,9 @@ El programa permite detectar secuencias de ADN de Mutantes y identificar si hay 
 Se puede clonar el repositorio:
 
 ```
-gh repo clone BetMartin/Examen-Programacion-Mutantes
+gh repo clone xHJCXDx/Programacion_Parcial_2
 ```
-Otra manera es acceder al siguiente [enlace](https://github.com/BetMartin/Examen-Programacion-Mutantes.git) y descargarlo.
+Otra manera es acceder al siguiente [enlace](https://github.com/xHJCXDx/Programacion_Parcial_2.git) y descargarlo.
 
 ## Casos de Prueba
 ### Caso 1
